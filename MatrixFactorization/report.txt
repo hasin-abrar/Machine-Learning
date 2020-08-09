@@ -1,0 +1,149 @@
+
+
+k= 5 lambda_u = 0.01 lambda_v = 0.01 validation rmse : 4.296100983695048
+
+k= 5 lambda_u = 0.01 lambda_v = 0.1 validation rmse : 4.248378424962904
+
+k= 5 lambda_u = 0.01 lambda_v = 1.0 validation rmse : 4.2394699304775925
+
+k= 5 lambda_u = 0.01 lambda_v = 10.0 validation rmse : 4.247558472603475
+
+k= 5 lambda_u = 0.1 lambda_v = 0.01 validation rmse : 4.236274314243088
+
+k= 5 lambda_u = 0.1 lambda_v = 0.1 validation rmse : 4.253739040039193
+
+k= 5 lambda_u = 0.1 lambda_v = 1.0 validation rmse : 4.221222414834221
+
+k= 5 lambda_u = 0.1 lambda_v = 10.0 validation rmse : 4.209957212574214
+
+k= 5 lambda_u = 1.0 lambda_v = 0.01 validation rmse : 4.205512652998781
+
+k= 5 lambda_u = 1.0 lambda_v = 0.1 validation rmse : 4.203688515531941
+
+k= 5 lambda_u = 1.0 lambda_v = 1.0 validation rmse : 4.2201514943602145
+
+k= 5 lambda_u = 1.0 lambda_v = 10.0 validation rmse : 4.2244922241894
+
+k= 5 lambda_u = 10.0 lambda_v = 0.01 validation rmse : 4.205451322425294
+
+k= 5 lambda_u = 10.0 lambda_v = 0.1 validation rmse : 4.221697617218067
+
+k= 5 lambda_u = 10.0 lambda_v = 1.0 validation rmse : 4.202158297045901
+
+k= 5 lambda_u = 10.0 lambda_v = 10.0 validation rmse : 4.228915811207313
+
+k= 10 lambda_u = 0.01 lambda_v = 0.01 validation rmse : 4.557123939587836
+
+k= 10 lambda_u = 0.01 lambda_v = 0.1 validation rmse : 4.512509927503701
+
+k= 10 lambda_u = 0.01 lambda_v = 1.0 validation rmse : 4.519793090762669
+
+k= 10 lambda_u = 0.01 lambda_v = 10.0 validation rmse : 4.574769261983802
+
+k= 10 lambda_u = 0.1 lambda_v = 0.01 validation rmse : 4.436118079138681
+
+k= 10 lambda_u = 0.1 lambda_v = 0.1 validation rmse : 4.42723054304966
+
+k= 10 lambda_u = 0.1 lambda_v = 1.0 validation rmse : 4.458547057259409
+
+k= 10 lambda_u = 0.1 lambda_v = 10.0 validation rmse : 4.475734417069865
+
+k= 10 lambda_u = 1.0 lambda_v = 0.01 validation rmse : 4.406356368779989
+
+k= 10 lambda_u = 1.0 lambda_v = 0.1 validation rmse : 4.378655329280541
+
+k= 10 lambda_u = 1.0 lambda_v = 1.0 validation rmse : 4.3728176952398865
+
+k= 10 lambda_u = 1.0 lambda_v = 10.0 validation rmse : 4.389449943989513
+
+k= 10 lambda_u = 10.0 lambda_v = 0.01 validation rmse : 4.378580687942332
+
+k= 10 lambda_u = 10.0 lambda_v = 0.1 validation rmse : 4.38626435754263
+
+k= 10 lambda_u = 10.0 lambda_v = 1.0 validation rmse : 4.385483887502099
+
+k= 10 lambda_u = 10.0 lambda_v = 10.0 validation rmse : 4.386580826364446
+
+k= 20 lambda_u = 0.01 lambda_v = 0.01 validation rmse : 5.749693718088598
+
+k= 20 lambda_u = 0.01 lambda_v = 0.1 validation rmse : 5.778972661272861
+
+k= 20 lambda_u = 0.01 lambda_v = 1.0 validation rmse : 5.723479965358812
+
+k= 20 lambda_u = 0.01 lambda_v = 10.0 validation rmse : 5.7243649739400455
+
+k= 20 lambda_u = 0.1 lambda_v = 0.01 validation rmse : 5.270249372966333
+
+k= 20 lambda_u = 0.1 lambda_v = 0.1 validation rmse : 5.160973226356485
+
+k= 20 lambda_u = 0.1 lambda_v = 1.0 validation rmse : 5.208714905519128
+
+k= 20 lambda_u = 0.1 lambda_v = 10.0 validation rmse : 5.243469354442174
+
+k= 20 lambda_u = 1.0 lambda_v = 0.01 validation rmse : 5.10173492673638
+
+k= 20 lambda_u = 1.0 lambda_v = 0.1 validation rmse : 5.070955824612558
+
+k= 20 lambda_u = 1.0 lambda_v = 1.0 validation rmse : 5.064889635214437
+
+k= 20 lambda_u = 1.0 lambda_v = 10.0 validation rmse : 5.061837156641295
+
+k= 20 lambda_u = 10.0 lambda_v = 0.01 validation rmse : 5.14915607066884
+
+k= 20 lambda_u = 10.0 lambda_v = 0.1 validation rmse : 5.105526628934585
+
+k= 20 lambda_u = 10.0 lambda_v = 1.0 validation rmse : 5.1326667194175055
+
+k= 20 lambda_u = 10.0 lambda_v = 10.0 validation rmse : 5.108753724665633
+
+k= 40 lambda_u = 0.01 lambda_v = 0.01 validation rmse : 8.132866217363796
+
+k= 40 lambda_u = 0.01 lambda_v = 0.1 validation rmse : 8.077982365160091
+
+k= 40 lambda_u = 0.01 lambda_v = 1.0 validation rmse : 7.9982309244069825
+
+k= 40 lambda_u = 0.01 lambda_v = 10.0 validation rmse : 8.049204264809434
+
+k= 40 lambda_u = 0.1 lambda_v = 0.01 validation rmse : 7.001718300717473
+
+k= 40 lambda_u = 0.1 lambda_v = 0.1 validation rmse : 6.9817090442582845
+
+k= 40 lambda_u = 0.1 lambda_v = 1.0 validation rmse : 6.945794259800859
+
+k= 40 lambda_u = 0.1 lambda_v = 10.0 validation rmse : 6.964737222053969
+
+k= 40 lambda_u = 1.0 lambda_v = 0.01 validation rmse : 6.790455650097969
+
+k= 40 lambda_u = 1.0 lambda_v = 0.1 validation rmse : 6.787806700128518
+
+k= 40 lambda_u = 1.0 lambda_v = 1.0 validation rmse : 6.794328397114921
+
+k= 40 lambda_u = 1.0 lambda_v = 10.0 validation rmse : 6.7663061437457515
+
+k= 40 lambda_u = 10.0 lambda_v = 0.01 validation rmse : 6.935125319325912
+
+k= 40 lambda_u = 10.0 lambda_v = 0.1 validation rmse : 6.921845721729405
+
+k= 40 lambda_u = 10.0 lambda_v = 1.0 validation rmse : 6.923113500011695
+
+k= 40 lambda_u = 10.0 lambda_v = 10.0 validation rmse : 6.650559835710744
+
+Best on validation : 5 10.0 1.0 4.202158297045901
+
+TEST DATA: k= 5 lambda_u = 10.0 lambda_v = 1.0 RMSE : 4.1476539756895265
+
+TEST DATA: k= 5 lambda_u = 10.0 lambda_v = 1.0 RMSE : 4.1476539756895265
+
+
+
+k= 5 lambda_u = 10.0 lambda_v = 1.0 training rmse : 0.0
+
+k= 5 lambda_u = 10.0 lambda_v = 1.0 validation rmse : 4.226780708685849
+
+Best on validation : 5 10.0 1.0 4.226780708685849
+
+
+k= 5 lambda_u = 10.0 lambda_v = 1.0 training rmse : 0.0
+
+TEST DATA: k= 5 lambda_u = 10.0 lambda_v = 1.0 RMSE : 4.12929955195713
+

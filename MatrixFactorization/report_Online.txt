@@ -1,0 +1,10 @@
+k= 5 lambda_u = 10.0 lambda_v = 1.0 training rmse : 3.7405440180781073
+
+k= 5 lambda_u = 10.0 lambda_v = 1.0 validation rmse : 4.226780708685849
+
+Best on validation : 5 10.0 1.0 4.226780708685849
+
+k= 5 lambda_u = 10.0 lambda_v = 1.0 training rmse : 3.7822852149900488
+
+TEST DATA: k= 5 lambda_u = 10.0 lambda_v = 1.0 RMSE : 4.12929955195713
+
